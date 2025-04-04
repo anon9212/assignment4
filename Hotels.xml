@@ -10,7 +10,7 @@
             <City>Tempe</City>
             <State>AZ</State>
             <Zip>85281</Zip>
-            <NearestAirport>Sky Harbor</NearestAirport>
+            <NearstAirport>Sky Harbor</NearstAirport>
         </Address>
         <Rating>4.2</Rating>
     </Hotel>
@@ -23,7 +23,7 @@
             <City>Chicago</City>
             <State>IL</State>
             <Zip>60611</Zip>
-            <NearestAirport>O'Hare</NearestAirport>
+            <NearstAirport>O'Hare</NearstAirport>
         </Address>
         <Rating>4.5</Rating>
     </Hotel>
@@ -37,7 +37,7 @@
             <City>New York</City>
             <State>NY</State>
             <Zip>10001</Zip>
-            <NearestAirport>JFK</NearestAirport>
+            <NearstAirport>JFK</NearstAirport>
         </Address>
     </Hotel>
     <Hotel>
@@ -49,7 +49,7 @@
             <City>Miami</City>
             <State>FL</State>
             <Zip>33139</Zip>
-            <NearestAirport>Miami International</NearestAirport>
+            <NearstAirport>Miami International</NearstAirport>
         </Address>
         <Rating>4.0</Rating>
     </Hotel>
@@ -62,7 +62,7 @@
             <City>Los Angeles</City>
             <State>CA</State>
             <Zip>90028</Zip>
-            <NearestAirport>LAX</NearestAirport>
+            <NearstAirport>LAX</NearstAirport>
         </Address>
     </Hotel>
     <Hotel>
@@ -74,7 +74,7 @@
             <City>Las Vegas</City>
             <State>NV</State>
             <Zip>89119</Zip>
-            <NearestAirport>McCarran</NearestAirport>
+            <NearstAirport>McCarran</NearstAirport>
         </Address>
         <Rating>4.8</Rating>
     </Hotel>
@@ -87,7 +87,7 @@
             <City>San Francisco</City>
             <State>CA</State>
             <Zip>94108</Zip>
-            <NearestAirport>SFO</NearestAirport>
+            <NearstAirport>SFO</NearstAirport>
         </Address>
     </Hotel>
     <Hotel>
@@ -99,7 +99,7 @@
             <City>Dallas</City>
             <State>TX</State>
             <Zip>75202</Zip>
-            <NearestAirport>DFW</NearestAirport>
+            <NearstAirport>DFW</NearstAirport>
         </Address>
         <Rating>4.3</Rating>
     </Hotel>
@@ -112,7 +112,7 @@
             <City>Austin</City>
             <State>TX</State>
             <Zip>78701</Zip>
-            <NearestAirport>Austin-Bergstrom</NearestAirport>
+            <NearstAirport>Austin-Bergstrom</NearstAirport>
         </Address>
         <Rating>4.6</Rating>
     </Hotel>
@@ -125,7 +125,7 @@
             <City>Atlanta</City>
             <State>GA</State>
             <Zip>30326</Zip>
-            <NearestAirport>Hartsfield-Jackson</NearestAirport>
+            <NearstAirport>Hartsfield-Jackson</NearstAirport>
         </Address>
     </Hotel>
 </Hotels>
