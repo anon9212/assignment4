@@ -4,7 +4,7 @@
     <Name>Marriott Marquis</Name>
     <Phone>212-398-1900</Phone>
     <Phone>800-228-9290</Phone>
-    <Address NearestAirport="JFK International">
+    <Address NearstAirport="JFK International">
       <Number>1535</Number>
       <Street>Broadway</Street>
       <City>New York</City>
@@ -16,7 +16,7 @@
   <Hotel Rating="4.7">
     <Name>Hilton Hawaiian Village</Name>
     <Phone>808-949-4321</Phone>
-    <Address NearestAirport="Honolulu International">
+    <Address NearstAirport="Honolulu International">
       <Number>2005</Number>
       <Street>Kalia Rd</Street>
       <City>Honolulu</City>
@@ -29,7 +29,7 @@
     <Name>Westin Tempe</Name>
     <Phone>480-968-8885</Phone>
     <Phone>800-937-8461</Phone>
-    <Address NearestAirport="Sky Harbor">
+    <Address NearstAirport="Sky Harbor">
       <Number>11</Number>
       <Street>E. 7th St</Street>
       <City>Tempe</City>
@@ -41,7 +41,7 @@
   <Hotel Rating="4.3">
     <Name>Fairmont San Francisco</Name>
     <Phone>415-772-5000</Phone>
-    <Address NearestAirport="SFO International">
+    <Address NearstAirport="SFO International">
       <Number>950</Number>
       <Street>Mason St</Street>
       <City>San Francisco</City>
@@ -53,7 +53,7 @@
   <Hotel Rating="4.8">
     <Name>Ritz-Carlton Chicago</Name>
     <Phone>312-266-1000</Phone>
-    <Address NearestAirport="O'Hare International">
+    <Address NearstAirport="O'Hare International">
       <Number>160</Number>
       <Street>E Pearson St</Street>
       <City>Chicago</City>
@@ -65,7 +65,7 @@
   <Hotel Rating="4.0">
     <Name>Hyatt Regency Orlando</Name>
     <Phone>407-284-1234</Phone>
-    <Address NearestAirport="Orlando International">
+    <Address NearstAirport="Orlando International">
       <Number>9801</Number>
       <Street>International Dr</Street>
       <City>Orlando</City>
@@ -77,7 +77,7 @@
   <Hotel>
     <Name>Hotel del Coronado</Name>
     <Phone>619-435-6611</Phone>
-    <Address NearestAirport="San Diego International">
+    <Address NearstAirport="San Diego International">
       <Number>1500</Number>
       <Street>Orange Ave</Street>
       <City>Coronado</City>
@@ -89,7 +89,7 @@
   <Hotel Rating="4.6">
     <Name>Waldorf Astoria Beverly Hills</Name>
     <Phone>310-860-6666</Phone>
-    <Address NearestAirport="LAX">
+    <Address NearstAirport="LAX">
       <Number>9850</Number>
       <Street>Wilshire Blvd</Street>
       <City>Beverly Hills</City>
@@ -101,7 +101,7 @@
   <Hotel Rating="4.4">
     <Name>Four Seasons Seattle</Name>
     <Phone>206-749-7000</Phone>
-    <Address NearestAirport="Seattle-Tacoma International">
+    <Address NearstAirport="Seattle-Tacoma International">
       <Number>99</Number>
       <Street>Union St</Street>
       <City>Seattle</City>
@@ -113,7 +113,7 @@
   <Hotel>
     <Name>The Breakers Palm Beach</Name>
     <Phone>561-655-6611</Phone>
-    <Address NearestAirport="Palm Beach International">
+    <Address NearstAirport="Palm Beach International">
       <Number>1</Number>
       <Street>South County Road</Street>
       <City>Palm Beach</City>

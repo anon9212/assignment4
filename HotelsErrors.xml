@@ -4,7 +4,7 @@
     <Name>Marriott Marquis</Name>
     <Phone>212-398-1900</Phone>
     <Phone>800-228-9290</Phone>
-    <Address NearestAirport="JFK International">
+    <Address NearstAirport="JFK International">
       <Number>1535</Number>
       <Street>Broadway</Street>
       <City>New York</City>
@@ -14,7 +14,7 @@
   </Hotel>
 
   <Hotel Rating="4.7">
-    <!-- Error: Missing required attribute NearestAirport -->
+    <!-- Error: Missing required attribute NearstAirport -->
     <Name>Hilton Hawaiian Village</Name>
     <Phone>808-949-4321</Phone>
     <Address>
@@ -29,7 +29,7 @@
   <Hotel>
     <Name>Westin Tempe</Name>
     <!-- Error: Missing Phone element -->
-    <Address NearestAirport="Sky Harbor">
+    <Address NearstAirport="Sky Harbor">
       <Number>11</Number>
       <Street>E. 7th St</Street>
       <City>Tempe</City>
@@ -42,7 +42,7 @@
     <Name>Fairmont San Francisco</Name>
     <Phone>415-772-5000</Phone>
     <!-- Error: Address has no closing tag -->
-    <Address NearestAirport="SFO International">
+    <Address NearstAirport="SFO International">
       <Number>950</Number>
       <Street>Mason St</Street>
       <City>San Francisco</City>
@@ -55,7 +55,7 @@
     <Name>Ritz-Carlton Chicago</Name>
     <Name>Duplicate Name</Name>
     <Phone>312-266-1000</Phone>
-    <Address NearestAirport="O'Hare International">
+    <Address NearstAirport="O'Hare International">
       <Number>160</Number>
       <Street>E Pearson St</Street>
       <City>Chicago</City>
